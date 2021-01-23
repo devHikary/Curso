@@ -51,7 +51,11 @@ Aula: HTML5 e CSS3 part1: a primeira página Web
   <meta charset="UTF-8">
   ```
 
-* 
+* Texto
+  * No alinhamento deles (text-align)
+  * No tamanho da fonte (font-size)
+  * Na cor de fundo (background)
+  * Na cor do texto (color)
 
   
 
