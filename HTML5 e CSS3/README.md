@@ -57,5 +57,26 @@ Aula: HTML5 e CSS3 part1: a primeira página Web
   * Na cor de fundo (background)
   * Na cor do texto (color)
 
-  
+  * Elemento borda
+    * Pode ser resumido em --> border: 2px solid #000000;
+    ```
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    ```
+    * Borda arredondada
+    ```
+    border-radius: 10px 20px 30px 40px;
+    ```
+
+    * Algumas pseudo-classes CSS
+      * quando o usuário passa o cursor sobre o elemento
+      ```
+      produtos li:hover {
+      ```
+      * active, quando um elemento está sendo ativado pelo usuário
+      ```
+      .produtos li:active{
+      ```
+
 
