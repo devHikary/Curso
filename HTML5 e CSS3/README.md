@@ -78,5 +78,14 @@ Aula: HTML5 e CSS3 part1: a primeira página Web
       ```
       .produtos li:active{
       ```
+    * Input:
+      * radio
+      * checkbox
+
+    * Select:
+      * itens --> <option>
+
+    * http://mobileinputtypes.com/
+    
 
 
