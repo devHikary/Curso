@@ -87,5 +87,23 @@ Aula: HTML5 e CSS3 part1: a primeira página Web
 
     * http://mobileinputtypes.com/
     
+    * Alguns tipos de inputs para celular: email, tel, number, password, date, datetime, month e search
+
+    *  fieldset e legend
+
+    * Como adicionar uma alternativa à imagem, descrevendo-a, com o atributo alt
+
+    * A realizar transições nos nossos elementos, com a propriedade CSS transition
+
+    * A realizar transformações nos nossos elementos, como aumentar proporcionalmente a escala de determinado elemento ou rotacioná-lo, através da propriedade CSS transform
+
+    * Table
+      * tr linha da tabela
+      * td célula
+      * thead cabeçalho
+      * tbody corpo
+      * ht célula do cabeçalho
+      * tfoot rodapé
+
 
 
