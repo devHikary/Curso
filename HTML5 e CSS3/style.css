@@ -16,6 +16,7 @@ nav{
     position:absolute;
     top: 110px;
     right: 0px;
+    text-shadow: 2px 2px white;
 }
 
 nav li{
@@ -160,6 +161,7 @@ td, th{
     font-size: 2em; /* medida proporcional */
     margin: 0 0 1em;
     clear: left;
+    text-shadow: 2px 2px wheat;
 }
 
 .titulo_principal:before{
@@ -233,8 +235,16 @@ td, th{
 .itens::before{
     content: "✦ ";
 }
-.imgBenef{
+
+.imagem-beneficio{
     width: 60%;
+    opacity: 0.3;
+    transition: 400ms;
+    box-shadow: 10px 10px 30px #000000;
+}
+
+.imagem-beneficio:hover{
+    opacity: 1;
 }
 
 .video{

@@ -105,5 +105,28 @@ Aula: HTML5 e CSS3 part1: a primeira página Web
       * ht célula do cabeçalho
       * tfoot rodapé
 
+    * Seletores avançados CSS
+      * Seletor >, para acessar os filhos de determinado elemento.
+      ```
+      main > p {}
+      ```
+      * Seletor +, para acessar o primeiro irmão de determinado elemento. 
+      ```
+      img + p {}
+      ```
+      * Seletor ~, para acessar todos os irmãos de determinado elemento.
+      ```
+      img ~ p {}
+      ```
+      * Seletor not, para acessar os elementos, exceto algum.
+      ```
+      main p:not(#missao) {}
+      ```
+    * Proprieda calc
+    * opacidade opacity
+    * sombra em elemento bax-shadow
+    * sombra em texto text-shadow
+
+
 
 
