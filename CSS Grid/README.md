@@ -13,6 +13,10 @@
 *  grid-gap: .2rem; -->Adiciona um espaçamento entre linhas e colunas
 * grid-column "start" / "end";
   grid-row "start" / "end";
+* É possível haver um grid dentro de outro.
+
+
 
 ## Metodologia BEM
 https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem
+
