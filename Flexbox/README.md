@@ -27,3 +27,25 @@ Instrutor
     ``` 
     flex-wrap: wrap
     ```
+
+## Sites
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+# container:
+
+* display: flex
+* flex-direction
+* justify-content
+* flex-wrap
+* flex-flow
+* align-items
+* align-content
+
+# flex item:
+
+* order
+* flex-grow
+* flex-shrink
+* flex-basis
+* flex
+* align-self
