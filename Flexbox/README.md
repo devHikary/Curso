@@ -1,6 +1,6 @@
 # Flexbox 
 Curso Alura
-Instrutor
+Instrutor Yuri Padilha
 
 
 * Espaço que sobrou no nosso elemento pai, distribuido entre os filhos

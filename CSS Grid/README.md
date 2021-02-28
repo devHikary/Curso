@@ -1,4 +1,6 @@
 # CSS Grid
+Instrutor: 
+Matheus Castiglioni
 
 * display: grid; 
 * grid-template-areas: 

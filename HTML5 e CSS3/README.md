@@ -1,6 +1,7 @@
 # Aula_HTML
 
-Curso Aluro - Instrutor Pedro Marins
+Curso Alura - Instrutor Pedro Marins
+
 Aula: HTML5 e CSS3 part1: a primeira página Web
 
 *TAGS*
