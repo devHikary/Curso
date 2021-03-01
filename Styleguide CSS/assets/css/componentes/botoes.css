@@ -1,16 +1,24 @@
 .botao {
-    background-color: #FFCB47;
+  background-color: var(--amarelo);
 
-    text-align: center;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
-    color: #FFFFFF;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: var(--peso-botao);
+  color: var(--branco);
 
-    width: 100%;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+  width: 100%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 
-    box-shadow: 10px 10px 30px #FFCB473D;
+  box-shadow: 10px 10px 30px var(--sombra_botao);
 
-    border: none;
+  border: none;
+}
+
+.botao--alternativo{
+  color: var(--amarelo);
+  margin-top: 20px;
+  background-color: unset;
+  box-shadow: none;
+  border: 1px solid var(--amarelo);
 }
