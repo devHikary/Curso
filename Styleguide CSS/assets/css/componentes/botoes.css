@@ -7,17 +7,17 @@
   color: var(--branco);
 
   width: 100%;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
 
   box-shadow: 10px 10px 30px var(--sombra_botao);
 
   border: none;
+  margin-top: 1rem;
 }
 
 .botao--alternativo{
   color: var(--amarelo);
-  margin-top: 20px;
   background-color: unset;
   box-shadow: none;
   border: 1px solid var(--amarelo);
