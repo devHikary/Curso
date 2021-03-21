@@ -46,3 +46,7 @@ Curso Alura - Instrutor Flavio Henrique de Souza Almeida
 private _negociacoes: Array<Negociacao> = [];
 é a mesma coisa de fazer
 private _negociacoes: Negociacao[] = [];
+* Criando de um novo modelo para encapsular uma lista de objetos do tipo Negociacao.
+* Array e generics
+* Manipulação declarativa do DOM através de template
+* Template dinâmico
