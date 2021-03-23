@@ -50,3 +50,22 @@ private _negociacoes: Negociacao[] = [];
 * Array e generics
 * Manipulação declarativa do DOM através de template
 * Template dinâmico
+
+# Part2
+
+## Aula 2
+* Isso pode ser interessante para evitarmos valores nulos e indefinidos em nosso projeto.
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "app/js",
+        "noEmitOnError": true, 
+        "noImplicitAny": true,
+        "removeComments": true,
+        "module": "system",
+        "strictNullChecks": true
+    },
+    "include": [
+        "app/ts/**/*"
+    ]
+}
