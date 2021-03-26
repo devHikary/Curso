@@ -69,3 +69,23 @@ private _negociacoes: Negociacao[] = [];
         "app/ts/**/*"
     ]
 }
+
+## Aula 3
+*Decorators
+  * Decorators de métodos
+  * Decorators de propriedades
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "app/js",
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "module": "system",
+        "strictNullChecks": true,
+        "experimentalDecorators": true
+    },
+    "include": [
+        "app/ts/**/*"
+    ]
+}
