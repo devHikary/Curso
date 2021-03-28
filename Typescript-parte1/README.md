@@ -89,3 +89,7 @@ private _negociacoes: Negociacao[] = [];
         "app/ts/**/*"
     ]
 }
+
+## Aula 4
+* API externa
+* Interface
