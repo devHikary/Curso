@@ -93,3 +93,9 @@ private _negociacoes: Negociacao[] = [];
 ## Aula 4
 * API externa
 * Interface
+
+## Aula 5
+* Um pouco mais de polimorfismo em linguagens estaticamente tipadas
+* Interface que definem a assinatura de métodos
+* A não importar negociações duplicadas
+* Que uma interface pode estender quantas interfaces forem necessárias
