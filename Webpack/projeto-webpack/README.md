@@ -11,4 +11,10 @@ Curso Alura
 * O papel de um loader
 * Instalação e configuração de um loader
 
+## Aula 2
+* O efeito do parâmetro -p para o build de produção.
+* A incompatibilidade do UglifyJS com código que não sejam escritos em ECMASCRIPT 5.
+* babili como plugin que ajuda no processo de minificação.
+* pegadinhas na atribuição de variáveis de ambiente.
+* o módulo cross-env para garantir compatibilidade do nosso npm script entre diferentes sistemas operacionais.
 
