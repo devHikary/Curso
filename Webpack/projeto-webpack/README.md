@@ -18,3 +18,9 @@ Curso Alura
 * pegadinhas na atribuição de variáveis de ambiente.
 * o módulo cross-env para garantir compatibilidade do nosso npm script entre diferentes sistemas operacionais.
 
+## Aula 3
+* O papel do Webpack Dev Server e suas vantagens como live reloading
+* Como instalar o Webpack Dev Server através do npm
+* A criação de um script para executar o servidor
+* A importância da propriedade publicPath.
+
