@@ -25,9 +25,13 @@ Curso Alura
 * A importância da propriedade publicPath.
 
 ## Aula 4
-* Como utilizar o npm para gerenciar nossas dependências * frontend
-* Como o Webpack lida com as dependências em node_modules * adicionado-as no bundle da aplicação.
+* Como utilizar o npm para gerenciar nossas dependências frontend
+* Como o Webpack lida com as dependências em node_modules adicionado-as no bundle da aplicação.
 * O papel de loaders
 * Que o padrão é adicionar no bundle scripts e CSS's
-* Que podemos separar CSS's do bundle criado e importá-los * através da tag link através do módulo * extract-text-webpack-plugin.
-* A utilizar o plugin optimize-css-assets-webpack-plugin * para minificar CSS's importados se adicionados no style.css.
+* Que podemos separar CSS's do bundle criado e importá-los através da tag link através do módulo `extract-text-webpack-plugin`.
+* A utilizar o plugin `optimize-css-assets-webpack-plugin` para minificar CSS's importados se adicionados no style.css.
+
+## Aula 5
+* Que o Webpack importa scripts através da instrução `import` sem muito mistério.
+* A necessidade de utilizar o webpack.ProvidePlugin.
