@@ -1,5 +1,5 @@
 # Webpacks
-Instrutor:
+Instrutor: Flavio Henrique de Souza Almeida
 Curso Alura
 
 ## Aula 1
@@ -35,3 +35,12 @@ Curso Alura
 ## Aula 5
 * Que o Webpack importa scripts através da instrução `import` sem muito mistério.
 * A necessidade de utilizar o webpack.ProvidePlugin.
+
+## Aula 6
+* Otimização com scope hoisting
+* Separação do nosso código das bibliotecas com o CommonsChunkPlugin
+* Geração de index.html automaticamente com todos os artefatos produzidos pelo Webpack já importados.
+* Code splitting e Lazy loading.
+* Sobre utilizar System.import() ou import no carregamento de módulos.
+* Onde ficam os arquivos para distribuição do projeto
+* Como alterar o endereço da API no build de produção com o DefinePlugin.
