@@ -35,3 +35,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Data binding através de Angular Expression
 * Data binding de atributos
 * Convenções adotadas até o momento
+
+# Aula 2
+
+* Como o arquivo bootstrap.css pode ser adicionado ao processo de build do Angular CLI.
+* Criação de um novo componente
+* A importância de declarar o componente em um módulo
+* Como passar dados para o componente através das inbound properties
+* Criação de um módulo e boas práticas
+* A diretiva *ngFor
