@@ -44,3 +44,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Como passar dados para o componente através das inbound properties
 * Criação de um módulo e boas práticas
 * A diretiva *ngFor
+
+# Aula 3
+* Consumir uma Web API através do serviço HttpClient
+* Injeção de dependência e a importância de providers
+* Isolamento da lógica de acesso à Web API em classe de serviço
+* Tipagem do retorno da API através de interface e sua vantagem
+* Componentes possuem ciclo de vida
+* A fase OnInit
