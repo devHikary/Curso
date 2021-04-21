@@ -52,3 +52,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Tipagem do retorno da API através de interface e sua vantagem
 * Componentes possuem ciclo de vida
 * A fase OnInit
+
+# Aula 4
+* BrowserModule vs CommonModule
+* Single Page Application e rotas no lado do navegador
+* O módulo RouterModule
+* A diretiva router-outlet como grande lacuna para exibição de outros componentes
+* Módulo de rotas e definição de rotas
+* Como lidar com páginas 404
+* Parametrizando rotas e como obter valores do segmento parametrizado
