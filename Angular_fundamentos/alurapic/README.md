@@ -27,7 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-# Aula 1
+# Parte 2: Fundamentos
+## Aula 1
 
 * Instalação do Angular CLI
 * Criação de um novo projeto com a ferramenta e como executá-lo
@@ -36,7 +37,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Data binding de atributos
 * Convenções adotadas até o momento
 
-# Aula 2
+## Aula 2
 
 * Como o arquivo bootstrap.css pode ser adicionado ao processo de build do Angular CLI.
 * Criação de um novo componente
@@ -45,7 +46,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Criação de um módulo e boas práticas
 * A diretiva *ngFor
 
-# Aula 3
+## Aula 3
 * Consumir uma Web API através do serviço HttpClient
 * Injeção de dependência e a importância de providers
 * Isolamento da lógica de acesso à Web API em classe de serviço
@@ -53,7 +54,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Componentes possuem ciclo de vida
 * A fase OnInit
 
-# Aula 4
+## Aula 4
 * BrowserModule vs CommonModule
 * Single Page Application e rotas no lado do navegador
 * O módulo RouterModule
@@ -62,8 +63,19 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Como lidar com páginas 404
 * Parametrizando rotas e como obter valores do segmento parametrizado
 
-# Aula 5
+## Aula 5
 * Novo componente para listar photos
 * Adequação dos dados recebidos pelo componente
 * Quando a fase OnInit não é suficiente
 * A interface OnChanges, e como interagir com SimpleChanges
+
+
+# Parte 2
+
+## Aula 1
+* criação de um componente de login;
+* validação de formulário;
+* como componentizar mensagens de validação;
+* como enviar crendenciais para a API;
+* como redirecionar e obter referências do template (ViewChild);
+* descobrindo a plataforma de execução.
