@@ -79,3 +79,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * como enviar crendenciais para a API;
 * como redirecionar e obter referências do template (ViewChild);
 * descobrindo a plataforma de execução.
+
+## Aula 2
+* como acessar o header de resposta;
+* armazenamento de token;
+* a segurança do token;
+* cabeçalho da nossa aplicação.
