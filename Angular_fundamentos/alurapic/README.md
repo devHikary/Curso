@@ -85,3 +85,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * armazenamento de token;
 * a segurança do token;
 * cabeçalho da nossa aplicação.
+
+
+## Aula 3
+- como separar responsabilidades;
+- qual o papel do `BehaviorSubject`;
+- utilização do *Async pipe*;
+- a implementação do logout;
+- a diretiva `routerLink`.
