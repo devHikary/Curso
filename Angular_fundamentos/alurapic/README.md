@@ -93,3 +93,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - utilização do *Async pipe*;
 - a implementação do logout;
 - a diretiva `routerLink`.
+
+
+## Aula 4
+* criação de um componente de registro;
+* validação de formulário de registro;
+* como criar nosso próprio validador;
+* validando de maneira assíncrona;
+* submissão de dados.
