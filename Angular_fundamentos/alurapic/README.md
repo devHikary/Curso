@@ -101,3 +101,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * como criar nosso próprio validador;
 * validando de maneira assíncrona;
 * submissão de dados.
+
+
+## Aula 5
+* rotas filhas;
+* como buildar o projeto;
+* Lazy loading e code splitting;
+* interceptadores e envio de token.
