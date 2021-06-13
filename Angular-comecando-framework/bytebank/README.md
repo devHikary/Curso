@@ -33,3 +33,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Utilizar o próprio CLI para levantar um servidor de desenvolvimento;
 - Como é organizada uma aplicação Angular;
 - Criar e utilizar um componente Angular.
+
+## Aula 2
+- Importar as funcionalidades de formulário para o projeto;
+- Escutar o evento de *submit* do formulário através de *event binding*;
+- A diferença do *Two-way data binding* para property binding;
+- Capturar as informações de um formulário.
