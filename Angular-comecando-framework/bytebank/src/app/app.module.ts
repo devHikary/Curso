@@ -8,6 +8,7 @@ import { FormsModule } from '@angular/forms';
 import { ExtratoComponent } from './extrato/extrato.component';
 import { registerLocaleData } from '@angular/common';
 import localPt from '@angular/common/locales/pt';
+import { AppRoutingModule } from './app-routing.module';
 
 registerLocaleData(localPt, 'pt');
 @NgModule({
@@ -19,7 +20,8 @@ registerLocaleData(localPt, 'pt');
   imports: [
     BrowserModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    AppRoutingModule
   ],
   providers: [
     {provide: LOCALE_ID, useValue: 'pt' },
