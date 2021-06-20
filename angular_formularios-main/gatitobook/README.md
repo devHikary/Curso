@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Aula 1
+- Começamos um projeto utilizando o `angular/cli` como ferramenta de apoio em todo nosso fluxo de trabalho. Utilizando a opção `-strict`, ligamos mais verificações de tipo no nosso projeto, melhorando logo na largada a nossa qualidade do nosso código.
+- Aprendemos como configurar o Bootstrap como framework de CSS global para nossa aplicação.
+- Começamos também a estruturar nossa aplicação utilizando o módulo Angular. Com a técnica do lazy loading, melhoramos o carregamento inicial da nossa aplicação.
+- Estudamos também como é composto um componente Angular e quais são os arquivos que o `angular/cli` gera para nós.
+- Começamos a desenvolver nossa primeira funcionalidade: o formulário de Login.
