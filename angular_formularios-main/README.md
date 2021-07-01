@@ -30,3 +30,10 @@
 - Instalamos uma biblioteca que nos ajuda a trabalhar com esse tipo de dado e criamos um serviço exclusivamente para tratar a gravação e recuperação do token.
 - Criamos também um serviço que representa as operações com o usuário logado e nesse serviço decodificamos e fazemos o uso do objeto Subject do RXJS para propagar as alterações das informações do usuário.
 - Por fim, criamos o cabeçalho e rodapé da nossa interface interagindo com esse serviço de Usuário.
+
+# Angular: Controle o fluxo de navegação
+## Aula 1
+- Como criar um componente reutilizável, recebendo atributos utilizando o decorator @Input
+- Aprendemos a projetar um conteúdo externo no nosso componente utilizando a diretiva ng-content
+- Criamos um serviço e enviamos além dos parâmetros, o header da requisição utilizando o objeto HttpHeaders
+- Centralizamos a configuração do endereço da API utilizando o arquivo de environment.
