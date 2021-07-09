@@ -10,9 +10,10 @@ import { DetalhesAnimalComponent } from './detalhes-animal/detalhes-animal.compo
 import { ComentariosComponent } from './detalhes-animal/comentarios/comentarios.component';
 import { MensagemModule } from '../componentes/mensagem/mensagem.module';
 import { ReactiveFormsModule } from '@angular/forms';
+import { SharedModule } from '../shared/shared.module';
 
 @NgModule({
   declarations: [ListaAnimaisComponent, AnimalComponent, GradeFotosAnimaisComponent, DetalhesAnimalComponent, ComentariosComponent],
-  imports: [CommonModule, AnimaisRoutingModule, CartaoModule, MensagemModule, ReactiveFormsModule],
+  imports: [CommonModule, AnimaisRoutingModule, CartaoModule, SharedModule],
 })
-export class AnimaisModule {}
+export class AnimaisModule { }
